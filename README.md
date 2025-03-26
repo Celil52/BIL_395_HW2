@@ -58,6 +58,3 @@ Her bir yorumlayici asagidaki turden ifadeleri kabul eder:
 - Degisken kullanimi: `y = x + 5`
 
 Yorumlayicidan cikmak icin `exit` veya `quit` yaziniz.
-
-
-Testler, temel fonksiyonelligi dogrulamak icin her hesap makinesi uzerinde bir dizi ifadeyi calistirmaktadir.
